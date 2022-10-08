@@ -3,13 +3,13 @@ body{
     background-color: lightgrey;
 }
 header {
-    background-color: lightskyblue;
+    background-color: #808B96;
     margin:10%;
     display:grid;
     grid-template-rows: 75% 35%;
     padding:30px;
     border-radius: 20px;
-    box-shadow: 5px 5px 50px;
+    box-shadow: 1px 0px 32px 11px rgba(0,0,0,0.26);
     padding-bottom: 3em;
 }
 header img{
@@ -40,10 +40,10 @@ main ul{
 }
 
 footer{
-    background-color: lightskyblue;
+    background-color:#808B96;
     margin:10%;
     padding:30px;
     border-radius: 20px;
-    box-shadow: 5px 5px 50px;
+    box-shadow: 1px 0px 32px 11px rgba(0,0,0,0.26);
     text-align: center;
 }
