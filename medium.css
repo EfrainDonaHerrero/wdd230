@@ -14,4 +14,13 @@
     header img {
         width:110%;
     }
+
+    header {
+        background-color: #808B96;
+        
+    }
+    footer{
+        background-color:#808B96;
+       
+    }
 }
